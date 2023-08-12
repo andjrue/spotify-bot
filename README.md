@@ -12,6 +12,6 @@ The bot will listen for a specific command & user input. Once the command is mad
 Spotify and allow the user to chose from their top 5 most popular. The user will be prompted to enter 1-5, and based on this entry, 
 the bot will then send a preview of the song in chat. 
 
-# Commands
+## Commands
 
 !search_artist_songs 
